@@ -1,0 +1,24 @@
+{
+  "name": "revolt.generic.normalize",
+  "homepage": "https://github.com/revolt-framework/generic.normalize",
+  "authors": [
+    {
+      "name": "Nicolas Gallagher",
+      "email": "nicolasgallagher@gmail.com"
+    },
+    {
+      "name": "Ruven Pelka",
+      "email": "ruven.pelka@gmail.com",
+      "homepage": "http://ruvenpelka.com"
+    }
+  ],
+  "description": "Nicolas Gallagher’s Normalize.css used in the Revolt framework",
+  "main": "_generic.normalize.scss",
+  "keywords": [
+    "revolt",
+    "oocss",
+    "css",
+    "normalize"
+  ],
+  "license": "MIT"
+}
